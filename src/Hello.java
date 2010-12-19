@@ -2,10 +2,10 @@
 public class Hello {
 
 	/**
-	 * @param args
+	 * Implement the application
+	 * @param args arguments
 	 */
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("Hello world!");
 	}
 
